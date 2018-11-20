@@ -14,3 +14,11 @@ A terminal Python application for simple data summaries.
 - PyCharm
 - Jupyter Lab
 - Python, libraries: pandas, numpy, time
+
+![01](/screens/01.png)
+![02](/screens/02.png)
+![03](/screens/03.png)
+![04](/screens/04.png)
+![05](/screens/05.png)
+![06](/screens/06.png)
+![07](/screens/07.png)
