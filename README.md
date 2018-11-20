@@ -15,6 +15,8 @@ A terminal Python application for simple data summaries.
 - Jupyter Lab
 - Python, libraries: pandas, numpy, time
 
+## Screenshots
+
 ![01](/screens/01.png)
 ![02](/screens/02.png)
 ![03](/screens/03.png)
